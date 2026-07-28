@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<!--
+  실제 조회/등록/수정 쿼리(테이블/컬럼명 포함)는 비공개.
+  사내 배포 환경에서 별도 매퍼 XML로 관리한다.
+-->
+<mapper namespace="com.app.daol.mapper.target.Target">
+</mapper>
